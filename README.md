@@ -1,5 +1,7 @@
 # nobar
 
+![screengrab](https://github.com/Stianlyng/nobar/assets/71536569/36ae13af-120d-49e6-ba92-fb672e552fa7)
+
 nobar is a lightweight, minimal X11 workspace manager designed specifically for users who don't feel the need for all the features of a regular topbar. It provides a simple visual indicator for the active workspace on your system. This makes it particularly useful for setups with small monitors, where screen real estate is at a premium.
 
 ## Features
