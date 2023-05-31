@@ -1,6 +1,3 @@
-That's a great addition! Here's the updated README.md:
-
-```markdown
 # nobar
 
 nobar is a lightweight, minimal X11 workspace manager designed specifically for users who don't feel the need for all the features of a regular topbar. It provides a simple visual indicator for the active workspace on your system. This makes it particularly useful for setups with small monitors, where screen real estate is at a premium.
@@ -58,4 +55,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## License
 
 This project is licensed under the terms of the GPL license. See the [LICENSE](LICENSE) file for details.
-```
+
